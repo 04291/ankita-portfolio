@@ -19,6 +19,6 @@ Property management platforms · Ad technology · E-commerce · Business portals
 I share sanitized sample projects and technical demonstrations here. Client and employer source code is not published.
 
 ### Connect
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ankita-shah-9b6847123)
-- Portfolio: [GitHub](https://github.com/04291)
-- Email: shahankita042@gmail.com
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- Portfolio: [Add your GitHub Pages URL](https://pages.github.com/)
+- Email: Add your professional email
